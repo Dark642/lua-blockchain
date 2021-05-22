@@ -1,0 +1,3 @@
+https://rawgit.com/techfort/LokiJS/master/examples/sandbox/LokiSandbox.htm
+
+Create "chain" table and insert your own values.
