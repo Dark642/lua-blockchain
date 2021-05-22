@@ -1,0 +1,5 @@
+{
+  "chain": [
+    { "index": 1, "timestamp": 0, "transaction": "active", "proof": "true", "previous_hash": 1, "byte": 8}
+  ]
+}
