@@ -91,7 +91,7 @@ function CreateTransaction(sender, recipient, amount)
 	return GetLastTransaction['index'] + 1
 end
 
--- @route('/proof', methods=['GET'])
+-- @route('/proof', methods=['CREATE|SET|GET'])
 function GenerateWorkProof(last_block)
 	last_proof = last_block['proof']
 	last_hash = last_block
